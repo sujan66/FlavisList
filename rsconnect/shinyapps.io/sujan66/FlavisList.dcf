@@ -1,0 +1,14 @@
+name: FlavisList
+title: FlavisList
+username:
+account: sujan66
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4727679
+bundleId: 5106221
+url: https://sujan66.shinyapps.io/FlavisList/
+when: 1633439503.77291
+lastSyncTime: 1633439503.77291
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|flavis_list.xls|mol1.png
